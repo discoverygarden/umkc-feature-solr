@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the UMKC Solr config and Solr Metadata Configuration feature.
+ */
+
+include_once 'umkc_solr_config_and_solr_metadata_configuration.features.inc';
